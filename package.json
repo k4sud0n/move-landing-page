@@ -1,0 +1,24 @@
+{
+  "name": "move-landing-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.3",
+    "@tsparticles/slim": "^3.8.1",
+    "@tsparticles/vue3": "^3.0.1",
+    "tailwindcss": "^4.1.3",
+    "vue": "^3.5.13",
+    "vue-animated-counter": "^0.3.0",
+    "vue-writer": "^2.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.0"
+  }
+}
